@@ -1,0 +1,520 @@
+[
+    {
+        "c_name": "阿联酋",
+        "e_name": "United Arab Emirates",
+        "iso": "AE",
+        "iconName": "country/ae",
+        "phoneCode": "+971"
+    },
+    {
+        "c_name": "阿根廷",
+        "e_name": "Argentina",
+        "iso": "AR",
+        "iconName": "country/ar",
+        "phoneCode": "+54"
+    },
+    {
+        "c_name": "奥地利",
+        "e_name": "Austria",
+        "iso": "AT",
+        "iconName": "country/at",
+        "phoneCode": "+43"
+    },
+    {
+        "c_name": "波兰",
+        "e_name": "Poland",
+        "iso": "PL",
+        "iconName": "country/pl",
+        "phoneCode": "+48"
+    },
+    {
+        "c_name": "澳大利亚",
+        "e_name": "Australia",
+        "iso": "AU",
+        "iconName": "country/au",
+        "phoneCode": "+61"
+    },
+    {
+        "c_name": "比利时",
+        "e_name": "Belgium",
+        "iso": "BE",
+        "iconName": "country/be",
+        "phoneCode": "+32"
+    },
+    {
+        "c_name": "巴西",
+        "e_name": "Brazil",
+        "iso": "BR",
+        "iconName": "country/br",
+        "phoneCode": "+55"
+    },
+    {
+        "c_name": "巴哈马",
+        "e_name": "Bahamas",
+        "iso": "BS",
+        "iconName": "country/bs",
+        "phoneCode": "+1"
+    },
+    {
+        "c_name": "加拿大",
+        "e_name": "Canada",
+        "iso": "CA",
+        "iconName": "country/ca",
+        "phoneCode": "+1"
+    },
+    {
+        "c_name": "瑞士",
+        "e_name": "Switzerland",
+        "iso": "CH",
+        "iconName": "country/ch",
+        "phoneCode": "+41"
+    },
+    {
+        "c_name": "智利",
+        "e_name": "Chile",
+        "iso": "CL",
+        "iconName": "country/cl",
+        "phoneCode": "+56"
+    },
+    {
+        "c_name": "中国",
+        "e_name": "China",
+        "iso": "CN",
+        "iconName": "country/cn",
+        "phoneCode": "+86"
+    },
+    {
+        "c_name": "哥伦比亚",
+        "e_name": "Colombia",
+        "iso": "CO",
+        "iconName": "country/co",
+        "phoneCode": "+57"
+    },
+    {
+        "c_name": "塞浦路斯",
+        "e_name": "Cyprus",
+        "iso": "CY",
+        "iconName": "country/cy",
+        "phoneCode": "+357"
+    },
+    {
+        "c_name": "柬埔寨",
+        "e_name": "Cambodia",
+        "iso": "KH",
+        "iconName": "country/kh",
+        "phoneCode": "+855"
+    },
+    {
+        "c_name": "捷克",
+        "e_name": "Czech Republic",
+        "iso": "CZ",
+        "iconName": "country/cz",
+        "phoneCode": "+420"
+    },
+    {
+        "c_name": "德国",
+        "e_name": "Germany",
+        "iso": "DE",
+        "iconName": "country/de",
+        "phoneCode": "+49"
+    },
+    {
+        "c_name": "丹麦",
+        "e_name": "Denmark",
+        "iso": "DK",
+        "iconName": "country/dk",
+        "phoneCode": "+45"
+    },
+    {
+        "c_name": "厄瓜多尔",
+        "e_name": "Ecuador",
+        "iso": "EC",
+        "iconName": "country/ec",
+        "phoneCode": "+593"
+    },
+    {
+        "c_name": "爱沙尼亚",
+        "e_name": "Estonia",
+        "iso": "EE",
+        "iconName": "country/ee",
+        "phoneCode": "+372"
+    },
+    {
+        "c_name": "埃及",
+        "e_name": "Egypt",
+        "iso": "EG",
+        "iconName": "country/eg",
+        "phoneCode": "+20"
+    },
+    {
+        "c_name": "西班牙",
+        "e_name": "Spain",
+        "iso": "ES",
+        "iconName": "country/es",
+        "phoneCode": "+34"
+    },
+    {
+        "c_name": "芬兰",
+        "e_name": "Finland",
+        "iso": "FI",
+        "iconName": "country/fi",
+        "phoneCode": "+358"
+    },
+    {
+        "c_name": "法国",
+        "e_name": "France",
+        "iso": "FR",
+        "iconName": "country/fr",
+        "phoneCode": "+33"
+    },
+    {
+        "c_name": "希腊",
+        "e_name": "Greece",
+        "iso": "GR",
+        "iconName": "country/gr",
+        "phoneCode": "+30"
+    },
+    {
+        "c_name": "克罗地亚",
+        "e_name": "Croatia",
+        "iso": "HR",
+        "iconName": "country/hr",
+        "phoneCode": "+385"
+    },
+    {
+        "c_name": "匈牙利",
+        "e_name": "Hungary",
+        "iso": "HU",
+        "iconName": "country/hu",
+        "phoneCode": "+36"
+    },
+    {
+        "c_name": "香港",
+        "e_name": "Hong Kong",
+        "iso": "hk",
+        "iconName": "country/hk",
+        "phoneCode": "+852"
+    },
+    {
+        "c_name": "印度尼西亚",
+        "e_name": "Indonesia",
+        "iso": "ID",
+        "iconName": "country/id",
+        "phoneCode": "+62"
+    },
+    {
+        "c_name": "爱尔兰",
+        "e_name": "Ireland",
+        "iso": "IE",
+        "iconName": "country/ie",
+        "phoneCode": "+353"
+    },
+    {
+        "c_name": "阿曼",
+        "e_name": "Oman",
+        "iso": "OM",
+        "iconName": "country/om",
+        "phoneCode": "+968"
+    },
+    {
+        "c_name": "以色列",
+        "e_name": "Israel",
+        "iso": "IL",
+        "iconName": "country/il",
+        "phoneCode": "+972"
+    },
+    {
+        "c_name": "印度",
+        "e_name": "India",
+        "iso": "IN",
+        "iconName": "country/in",
+        "phoneCode": "+91"
+    },
+    {
+        "c_name": "冰岛",
+        "e_name": "Iceland",
+        "iso": "IS",
+        "iconName": "country/is",
+        "phoneCode": "+354"
+    },
+    {
+        "c_name": "意大利",
+        "e_name": "Italy",
+        "iso": "IT",
+        "iconName": "country/it",
+        "phoneCode": "+39"
+    },
+    {
+        "c_name": "牙买加",
+        "e_name": "Jamaica",
+        "iso": "JM",
+        "iconName": "country/jm",
+        "phoneCode": "+1"
+    },
+    {
+        "c_name": "日本",
+        "e_name": "Japan",
+        "iso": "JP",
+        "iconName": "country/jp",
+        "phoneCode": "+81"
+    },
+    {
+        "c_name": "肯尼亚",
+        "e_name": "Kenya",
+        "iso": "KE",
+        "iconName": "country/ke",
+        "phoneCode": "+254"
+    },
+    {
+        "c_name": "科威特",
+        "e_name": "Kuwait",
+        "iso": "KW",
+        "iconName": "country/kw",
+        "phoneCode": "+965"
+    },
+    {
+        "c_name": "韩国",
+        "e_name": "South Korea",
+        "iso": "KR",
+        "iconName": "country/kr",
+        "phoneCode": "+82"
+    },
+    {
+        "c_name": "立陶宛",
+        "e_name": "Lithuania",
+        "iso": "LT",
+        "iconName": "country/lt",
+        "phoneCode": "+370"
+    },
+    {
+        "c_name": "卢森堡",
+        "e_name": "Luxembourg",
+        "iso": "LU",
+        "iconName": "country/lu",
+        "phoneCode": "+352"
+    },
+    {
+        "c_name": "拉脱维亚",
+        "e_name": "Latvia",
+        "iso": "LV",
+        "iconName": "country/lv",
+        "phoneCode": "+371"
+    },
+    {
+        "c_name": "摩洛哥",
+        "e_name": "Morocco",
+        "iso": "MA",
+        "iconName": "country/ma",
+        "phoneCode": "+212"
+    },
+    {
+        "c_name": "蒙古",
+        "e_name": "Mongolia",
+        "iso": "MN",
+        "iconName": "country/mn",
+        "phoneCode": "+976"
+    },
+    {
+        "c_name": "毛里求斯",
+        "e_name": "Mauritius",
+        "iso": "MU",
+        "iconName": "country/mu",
+        "phoneCode": "+230"
+    },
+    {
+        "c_name": "马尔代夫",
+        "e_name": "Maldives",
+        "iso": "MV",
+        "iconName": "country/mv",
+        "phoneCode": "+960"
+    },
+    {
+        "c_name": "墨西哥",
+        "e_name": "Mexico",
+        "iso": "MX",
+        "iconName": "country/mx",
+        "phoneCode": "+52"
+    },
+    {
+        "c_name": "马来西亚",
+        "e_name": "Malaysia",
+        "iso": "MY",
+        "iconName": "country/my",
+        "phoneCode": "+60"
+    },
+    {
+        "c_name": "荷兰",
+        "e_name": "Netherlands",
+        "iso": "NL",
+        "iconName": "country/nl",
+        "phoneCode": "+31"
+    },
+    {
+        "c_name": "挪威",
+        "e_name": "Norway",
+        "iso": "NO",
+        "iconName": "country/no",
+        "phoneCode": "+47"
+    },
+    {
+        "c_name": "新西兰",
+        "e_name": "New Zealand",
+        "iso": "NZ",
+        "iconName": "country/nz",
+        "phoneCode": "+64"
+    },
+    {
+        "c_name": "巴拿马",
+        "e_name": "Panama",
+        "iso": "PA",
+        "iconName": "country/pa",
+        "phoneCode": "+507"
+    },
+    {
+        "c_name": "秘鲁",
+        "e_name": "Peru",
+        "iso": "PE",
+        "iconName": "country/pe",
+        "phoneCode": "+51"
+    },
+    {
+        "c_name": "菲律宾",
+        "e_name": "Philippines",
+        "iso": "PH",
+        "iconName": "country/ph",
+        "phoneCode": "+63"
+    },
+    {
+        "c_name": "波多黎各",
+        "e_name": "Puerto Rico",
+        "iso": "PR",
+        "iconName": "country/pr",
+        "phoneCode": "+1"
+    },
+    {
+        "c_name": "葡萄牙",
+        "e_name": "Portugal",
+        "iso": "PT",
+        "iconName": "country/pt",
+        "phoneCode": "+351"
+    },
+    {
+        "c_name": "卡塔尔",
+        "e_name": "Qatar",
+        "iso": "QA",
+        "iconName": "country/qa",
+        "phoneCode": "+974"
+    },
+    {
+        "c_name": "罗马尼亚",
+        "e_name": "Romania",
+        "iso": "RO",
+        "iconName": "country/ro",
+        "phoneCode": "+40"
+    },
+    {
+        "c_name": "俄罗斯",
+        "e_name": "Russia",
+        "iso": "RU",
+        "iconName": "country/ru",
+        "phoneCode": "+7"
+    },
+    {
+        "c_name": "沙特阿拉伯",
+        "e_name": "Saudi Arabia",
+        "iso": "SA",
+        "iconName": "country/sa",
+        "phoneCode": "+966"
+    },
+    {
+        "c_name": "塞舌尔",
+        "e_name": "Seychelles",
+        "iso": "SC",
+        "iconName": "country/sc",
+        "phoneCode": "+248"
+    },
+    {
+        "c_name": "瑞典",
+        "e_name": "Sweden",
+        "iso": "SE",
+        "iconName": "country/se",
+        "phoneCode": "+46"
+    },
+    {
+        "c_name": "斯洛文尼亚",
+        "e_name": "Slovenia",
+        "iso": "SI",
+        "iconName": "country/si",
+        "phoneCode": "+386"
+    },
+    {
+        "c_name": "斯洛伐克",
+        "e_name": "Slovakia",
+        "iso": "SK",
+        "iconName": "country/sk",
+        "phoneCode": "+421"
+    },
+    {
+        "c_name": "泰国",
+        "e_name": "Thailand",
+        "iso": "TH",
+        "iconName": "country/th",
+        "phoneCode": "+66"
+    },
+    {
+        "c_name": "突尼斯",
+        "e_name": "Tunisia",
+        "iso": "TN",
+        "iconName": "country/tn",
+        "phoneCode": "+216"
+    },
+    {
+        "c_name": "土耳其",
+        "e_name": "Turkey",
+        "iso": "TR",
+        "iconName": "country/tr",
+        "phoneCode": "+90"
+    },
+    {
+        "c_name": "台湾",
+        "e_name": "Taiwan",
+        "iso": "TW",
+        "iconName": "country/tw",
+        "phoneCode": "+886"
+    },
+    {
+        "c_name": "英国",
+        "e_name": "United Kingdom",
+        "iso": "GB",
+        "iconName": "country/uk",
+        "phoneCode": "+44"
+    },
+    {
+        "c_name": "美国",
+        "e_name": "United States",
+        "iso": "US",
+        "iconName": "country/us",
+        "phoneCode": "+1"
+    },
+    {
+        "c_name": "越南",
+        "e_name": "Vietnam",
+        "iso": "VN",
+        "iconName": "country/vn",
+        "phoneCode": "+84"
+    },
+    {
+        "c_name": "约旦",
+        "e_name": "Jordan",
+        "iso": "JO",
+        "iconName": "country/jo",
+        "phoneCode": "+962"
+    },
+    {
+        "c_name": "南非",
+        "e_name": "South Africa",
+        "iso": "ZA",
+        "iconName": "country/za",
+        "phoneCode": "+27"
+    }
+]
