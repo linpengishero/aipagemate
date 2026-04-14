@@ -1208,7 +1208,7 @@ const isProjectGenerated = computed(() => {
 
 const hasPendingGeneration = computed(() => hasPendingGenerationProgress(requirementFlowContext.value));
 
-const isInitializingPreview = computed(() => !iframeLoaded.value);
+const isInitializingPreview = computed(() => Boolean(currentProjectId.value) && !iframeLoaded.value);
 
 // 统一 UI 锁定状态：初始化中或生成中都视为整体禁用
 const isUiLocked = computed(() => isInitializingPreview.value || isGenerating.value);
